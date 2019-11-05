@@ -8,6 +8,7 @@ public class git1 {
 		
 		System.out.println("Pull request");
 		System.out.println("hai ludya");
+		System.out.println("lupik cantik");
 
 	}
 }
