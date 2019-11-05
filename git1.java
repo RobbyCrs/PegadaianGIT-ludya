@@ -8,6 +8,9 @@ public class git1 {
 		
 		System.out.println("This is version SIX");
 		System.out.println("Hello World 6 - this is new version");
+		
+		System.out.println("This is version Seven");
+		System.out.println("Hello World 7 - this is new version");
 
 	}
 }
